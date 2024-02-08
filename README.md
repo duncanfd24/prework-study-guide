@@ -1,4 +1,4 @@
-# <My Prework Study Guide>
+# My Prework Study Guide
 
 ## Description
 

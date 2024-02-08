@@ -10,7 +10,7 @@ N/A
 
 ## Usage
 
-This prework study guide can be used to learn the basics of coding.  Reviewing each topic can provide a great head start to knowing the essentials to succeed in a coding career.  Each topic should be digested separately and adequately.  In order to effectively digest the material provided here, repetition is recommended.
+This prework study guide should be used to learn the basics of coding.  Reviewing each topic can provide a great head start to knowing the essentials to succeed in a coding career.  Each topic should be digested separately and adequately.  In order to effectively digest the material provided here, repetition is recommended.
 
 ## Credits
 
